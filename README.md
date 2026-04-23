@@ -2,6 +2,8 @@
 
 A classic browser-based Snake Game built with **HTML**, **CSS**, and **JavaScript** using the **HTML5 Canvas API**. This project demonstrates core front-end development concepts such as keyboard interaction, game-state management, collision detection, score tracking, and dynamic rendering on a grid-based board.
 
+## live Demo:https://harshitha1106.github.io/snake-game/
+
 ## Features
 
 - Keyboard-controlled snake movement
