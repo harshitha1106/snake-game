@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #111;
+    color: white;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+#score {
+    font-size: 28px;
+    margin: 10px 0;
+    font-weight: bold;
+    color: #00ff99;
+}
